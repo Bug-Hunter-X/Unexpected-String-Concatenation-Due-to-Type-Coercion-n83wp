@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error caused by type coercion. The `myFunction` adds a number and a string, resulting in string concatenation instead of numerical addition. The solution showcases how to explicitly convert the string to a number to ensure correct addition.
